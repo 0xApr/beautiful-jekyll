@@ -4,7 +4,7 @@ title: About
 subtitle: After all! I am a human too.
 ---
 
-My name is Apaar. I am a regular guy and an introvert who prefer to spen majority of his time with computers, networks and cables. This blog is all about my discoveries doing such stuff. I consider and call myself a **Geek**, rather just another **Geek**.
+My name is Apaar. I am a regular guy and an introvert who prefer to spend majority of his time with computers, networks and cables. This blog is all about my discoveries doing such stuff. I consider and call myself a **Geek**, rather just another **Geek**.
 
 Topics which matter me :
 - Information/Cyber Security and Forensics
