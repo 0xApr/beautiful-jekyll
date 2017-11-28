@@ -1,16 +1,19 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: After all! I am a human too.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Apaar. I consider and call myself a **Geek**, rather just another **Geek**.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Topics which matter me :
+- Information/Cyber Security and Forensics
+- Computer Networks
+- Web Application Testing
+- Free and Open Source Software
+- Android and Smartphones
+- Cats and more
 
-What else do you need?
+### Know More
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+If this small introduction was less for you or you want to contact me in anyways, go ahead, scroll down, hit a button and say Hi.
