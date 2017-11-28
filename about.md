@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: About
 subtitle: After all! I am a human too.
 ---
 
